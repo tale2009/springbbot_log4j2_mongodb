@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springboot_tansactional:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="transctional.war">
+      <element id="artifact" artifact-name="springboot_tansactional:war exploded" />
+    </root>
+  </artifact>
+</component>
